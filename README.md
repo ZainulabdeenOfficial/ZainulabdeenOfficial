@@ -43,9 +43,10 @@
 
 ### ✍️ Random Dev Quote  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
-
 ### 🔝 Top Contributed Repo  
-![](https://github-contributor-stats.vercel.app/api?username=Zainulabdeenoffical&limit=5&theme=radical&combine_all_yearly_contributions=true)  
+![](https://github-contributor-stats.vercel.app/api?username=Zainulabdeenoffical&limit=5&theme=radical&combine_all_yearly_contributions=true) 
+[![Zain Ul Abdeen github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Zainulabdeenoffical&bg_color=0e0d15&color=a9fef7&line=a9fef7&point=b22e82&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ---  
 [![](https://visitcount.itsvg.in/api?id=Zainulabdeenoffical&label=Profile%20Views&color=12&icon=2&pretty=true)](https://visitcount.itsvg.in) 
