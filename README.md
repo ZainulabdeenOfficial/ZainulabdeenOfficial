@@ -34,7 +34,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="500" alt="NUX_Octodex">
 
 # 📊 GitHub Stats:  
-![](https://github-readme-stats.vercel.app/api?username=Zainulabdeenoffical&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/> 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Zainulabdeenoffical?cardType=github&theme=radical&preferLogin=false)](https://git.io/awesome-stats-card)<br/> 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Zainulabdeenoffical&theme=radical&hide_border=false)<br/> 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zainulabdeenoffical&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
 
