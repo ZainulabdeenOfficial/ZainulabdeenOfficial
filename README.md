@@ -11,6 +11,12 @@
 🌐 Full-Stack Explorer  
 🛠️ Building the future, one commit at a time  
 
+# 🌍 Favourite Place
+# ![img](place.png)
+
+## 🌠💡✨🪐 Dream [](#--gifs-for-readme--)
+<img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="500" alt="NUX_Octodex">
+
 ## 🌐 Socials:  
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/M.Zainulabdeenoffical.pk)  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/m.zainulabdeenoffical)  
@@ -30,9 +36,6 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)  
 <br>
-## Dream [](#--gifs-for-readme--)
-<img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="500" alt="NUX_Octodex">
-
 # 📊 GitHub Stats:  
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Zainulabdeenoffical?cardType=github&theme=radical&preferLogin=false)](https://git.io/awesome-stats-card)<br/> 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Zainulabdeenoffical&theme=radical&hide_border=false)<br/> 
