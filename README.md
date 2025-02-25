@@ -42,6 +42,15 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zainulabdeenoffical&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
 
 <!--START_SECTION:waka-->
+
+```txt
+Dart         1 hr 24 mins    █████████████▓░░░░░░░░░░░   54.99 %
+TypeScript   35 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.01 %
+HTML         27 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.20 %
+YAML         5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+```
+
 <!--END_SECTION:waka-->
 
 
