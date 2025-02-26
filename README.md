@@ -40,7 +40,7 @@
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Zainulabdeenoffical?cardType=github&theme=radical&preferLogin=false)](https://git.io/awesome-stats-card)<br/> 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Zainulabdeenoffical&theme=radical&hide_border=false)<br/> 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zainulabdeenoffical&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
-## Live  Programming  Hours ⏳
+## ⚡ Electricity to Code: Live Stats ⏳
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%205%20mins-blue)
