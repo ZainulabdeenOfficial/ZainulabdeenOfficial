@@ -44,7 +44,7 @@
 
 <!--START_SECTION:waka-->
 
-``` Live  Programming  Hours ⏳
+```txt
 Dart         1 hr 24 mins    █████████████▓░░░░░░░░░░░   54.99 %
 TypeScript   35 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.01 %
 HTML         27 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.20 %
