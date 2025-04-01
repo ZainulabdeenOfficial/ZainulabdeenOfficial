@@ -37,9 +37,9 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)  
 <br>
 # 📊 GitHub Stats:  
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Zainulabdeenoffical?cardType=github&theme=radical&preferLogin=false)](https://git.io/awesome-stats-card)<br/> 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ZainulabdeenOfficial?cardType=github&theme=radical&preferLogin=false)](https://git.io/awesome-stats-card)<br/> 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Zainulabdeenoffical&theme=radical&hide_border=false)<br/> 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zainulabdeenoffical&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZainulabdeenOfficial&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
 ## ⚡ Electricity to Code: Live Stats ⏳
 
 <!--START_SECTION:waka-->
