@@ -38,7 +38,7 @@
 <br>
 # 📊 GitHub Stats:  
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ZainulabdeenOfficial?cardType=github&theme=radical&preferLogin=false)](https://git.io/awesome-stats-card)<br/> 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Zainulabdeenoffical&theme=radical&hide_border=false)<br/> 
+![](https://github-readme-streak-stats.herokuapp.com/?user=ZainulabdeenOfficial&theme=radical&hide_border=false)<br/> 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZainulabdeenOfficial&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
 ## ⚡ Electricity to Code: Live Stats ⏳
 
@@ -127,11 +127,11 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
 ### 🔝 Top Contributed Repo  
 ![](https://github-contributor-stats.vercel.app/api?username=Zainulabdeenoffical&limit=5&theme=radical&combine_all_yearly_contributions=true) 
-[![Zain Ul Abdeen github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Zainulabdeenoffical&bg_color=0e0d15&color=a9fef7&line=a9fef7&point=b22e82&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Zain Ul Abdeen github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ZainulabdeenOfficial&bg_color=0e0d15&color=a9fef7&line=a9fef7&point=b22e82&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ---  
-[![](https://visitcount.itsvg.in/api?id=Zainulabdeenoffical&label=Profile%20Views&color=12&icon=2&pretty=true)](https://visitcount.itsvg.in) 
+[![](https://visitcount.itsvg.in/api?id=ZainulabdeenOfficial&label=Profile%20Views&color=12&icon=2&pretty=true)](https://visitcount.itsvg.in) 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## Hello, Nice to Meet You !! [](#--gifs-for-readme--)
