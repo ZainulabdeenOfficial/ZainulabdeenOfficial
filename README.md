@@ -126,7 +126,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ### ✍️ Random Dev Quote  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
 ### 🔝 Top Contributed Repo  
-![](https://github-contributor-stats.vercel.app/api?username=Zainulabdeenoffical&limit=5&theme=radical&combine_all_yearly_contributions=true) 
+![](https://github-contributor-stats.vercel.app/api?username=ZainulabdeenOfficial&limit=5&theme=radical&combine_all_yearly_contributions=true) 
 [![Zain Ul Abdeen github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ZainulabdeenOfficial&bg_color=0e0d15&color=a9fef7&line=a9fef7&point=b22e82&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
