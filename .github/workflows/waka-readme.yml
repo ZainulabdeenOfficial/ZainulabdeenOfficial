@@ -1,28 +1,4 @@
-name: Waka Readme
 
-on:
-  schedule:
-    # Ejecuta todos los días a las 00:30 UTC (puedes ajustar el horario según prefieras)
-    - cron: '30 18 * * *'
-  workflow_dispatch:
-
-jobs:
-  update-readme:
-    name: Update Readme with Metrics
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - uses: anmol098/waka-readme-stats@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SHOW_LANGUAGE: "True"
-          SHOW_TOTAL_CODE_TIME: "True"
-          SHOW_LINES_OF_CODE: "True"
-          SHOW_OS: "False"
-          SHOW_PROJECTS: "False"
-          SHOW_TIMEZONE: "False"
-          
 
 
 
