@@ -3,13 +3,16 @@
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="600" alt="animated hello"> <br>
 # 💫 About Me:
-
-
-
 👨‍💻 Hi, I’m M Zain Ul Abideen!  
 ⚡ Code, Coffee, Create  
 🌐 Full-Stack Explorer  
 🛠️ Building the future, one commit at a time  
+
+### 👾 My Journey Begins with "Hello World!"
+
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm1ieDBldjZxZjRyMDh5djh6YnQ5YzU5MzBrNTJzNHJ6MTByZ3VmeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Uuh6Gl2ijHZNFmBNBB/giphy.gif" width="400"/>
+
+
 
 # 🌍 Favourite Place
 # ![img](place.png)
