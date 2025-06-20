@@ -51,6 +51,8 @@
 <br>
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why .NET is a Strong Future-Proof Choice for Developers: Beyond the Hype of MERN](https://medium.com/@zu4425/why-net-is-a-strong-future-proof-choice-for-developers-beyond-the-hype-of-mern-c7c1ba47a5df?source=rss-d8af1bbd625c------2)
+- [Why Uptodown Might Be Better Than the Google Play Store](https://medium.com/@zu4425/why-uptodown-might-be-better-than-the-google-play-store-c825849ae432?source=rss-d8af1bbd625c------2)
 <!-- BLOG-POST-LIST:END -->
 
 # 📊 GitHub Stats:  
