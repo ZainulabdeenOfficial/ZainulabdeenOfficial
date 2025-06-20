@@ -49,11 +49,12 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)  
 <br>
-# Blog posts
+## 📰 Latest Medium Articles
 <!-- BLOG-POST-LIST:START -->
 - [Why .NET is a Strong Future-Proof Choice for Developers: Beyond the Hype of MERN](https://medium.com/@zu4425/why-net-is-a-strong-future-proof-choice-for-developers-beyond-the-hype-of-mern-c7c1ba47a5df?source=rss-d8af1bbd625c------2)
 - [Why Uptodown Might Be Better Than the Google Play Store](https://medium.com/@zu4425/why-uptodown-might-be-better-than-the-google-play-store-c825849ae432?source=rss-d8af1bbd625c------2)
 <!-- BLOG-POST-LIST:END -->
+📚 *Stay updated with my latest thoughts on programming*
 
 # 📊 GitHub Stats:  
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ZainulabdeenOfficial?cardType=github&theme=radical&preferLogin=false)](https://git.io/awesome-stats-card)<br/> 
