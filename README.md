@@ -49,6 +49,10 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)  
 <br>
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 # 📊 GitHub Stats:  
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ZainulabdeenOfficial?cardType=github&theme=radical&preferLogin=false)](https://git.io/awesome-stats-card)<br/> 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ZainulabdeenOfficial&theme=radical&hide_border=false)<br/> 
