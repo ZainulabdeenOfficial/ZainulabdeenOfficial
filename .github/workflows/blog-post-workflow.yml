@@ -2,7 +2,7 @@ name: Latest blog post workflow
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Runs every hour
+    - cron: '0 * * * *'
   workflow_dispatch:
 
 permissions:
@@ -10,17 +10,15 @@ permissions:
 
 jobs:
   update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
       - name: Pull in Medium and Dev.to posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: |
-            https://dev.to/feed/zainulabdeen
+            https://dev.to/feed/zain_ulabdeen_6b0c7f5e43
             https://medium.com/feed/@zu4425
           max_post_count: 5
           remove_duplicates: true
