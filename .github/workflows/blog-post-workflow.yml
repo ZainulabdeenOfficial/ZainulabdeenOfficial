@@ -2,19 +2,20 @@ name: Latest blog post workflow
 
 on:
   schedule:
-    - cron: '0 * * * *'
-  workflow_dispatch:
+    - cron: '0 * * * *'  # Runs every hour
+  workflow_dispatch:     # Allows manual triggering
 
 permissions:
-  contents: write
+  contents: write        # Needed to update README.md
 
 jobs:
-  update-readme-with-blog:
+  update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout code
+        uses: actions/checkout@v4
 
-      - name: Pull in Medium and Dev.to posts
+      - name: Pull Dev.to and Medium posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: |
