@@ -49,7 +49,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)  
 <br>
-## 📰 Latest Medium Articles
+## 📝 New Articles from My Mind to Yours
 <!-- BLOG-POST-LIST:START -->
 - [Engineered Addiction: How Silicon Valley Monetizes Emotion and Destroys Mental Health](https://dev.to/zainulabdeenofficial/engineered-addiction-how-silicon-valley-monetizes-emotion-and-destroys-mental-health-39h2)
 - [Why .NET is a Strong Future-Proof Choice for Developers: Beyond the Hype of MERN](https://dev.to/zainulabdeenofficial/why-net-is-a-strong-future-proof-choice-for-developers-beyond-the-hype-of-mern-34m0)
