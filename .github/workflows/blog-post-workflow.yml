@@ -15,11 +15,10 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: Pull Dev.to and Medium posts
+      - name: Pull Dev.to posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: |
             https://dev.to/feed/zainulabdeenofficial
-            https://medium.com/feed/@zu4425
           max_post_count: 5
           remove_duplicates: true
