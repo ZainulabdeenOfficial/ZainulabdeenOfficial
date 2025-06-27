@@ -51,8 +51,8 @@
 <br>
 ## 📰 Latest Medium Articles
 <!-- BLOG-POST-LIST:START -->
-- [Why .NET is a Strong Future-Proof Choice for Developers: Beyond the Hype of MERN](https://medium.com/@zu4425/why-net-is-a-strong-future-proof-choice-for-developers-beyond-the-hype-of-mern-c7c1ba47a5df?source=rss-d8af1bbd625c------2)
-- [Why Uptodown Might Be Better Than the Google Play Store](https://medium.com/@zu4425/why-uptodown-might-be-better-than-the-google-play-store-c825849ae432?source=rss-d8af1bbd625c------2)
+- [Engineered Addiction: How Silicon Valley Monetizes Emotion and Destroys Mental Health](https://dev.to/zainulabdeenofficial/engineered-addiction-how-silicon-valley-monetizes-emotion-and-destroys-mental-health-39h2)
+- [Why .NET is a Strong Future-Proof Choice for Developers: Beyond the Hype of MERN](https://dev.to/zainulabdeenofficial/why-net-is-a-strong-future-proof-choice-for-developers-beyond-the-hype-of-mern-34m0)
 <!-- BLOG-POST-LIST:END -->
 📚 *Stay updated with my latest thoughts on programming*
 
