@@ -3,10 +3,10 @@ name: Latest blog post workflow
 on:
   schedule:
     - cron: '0 * * * *'  # Runs every hour
-  workflow_dispatch:     # Allows manual triggering
+  workflow_dispatch:
 
 permissions:
-  contents: write        # Needed to update README.md
+  contents: write
 
 jobs:
   update-readme:
@@ -19,7 +19,7 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: |
-            https://dev.to/feed/zain_ulabdeen_6b0c7f5e43
+            https://dev.to/feed/zainulabdeenofficial
             https://medium.com/feed/@zu4425
           max_post_count: 5
           remove_duplicates: true
