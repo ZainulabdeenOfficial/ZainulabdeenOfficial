@@ -1,256 +1,107 @@
-<!DOCTYPE html>
-<html lang="en" data-theme="dracula">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>GitHub Streak Score Card</title>
-  <style>
-    :root {
-      --bg-color: #0d1117;
-      --text-color: #c9d1d9;
-      --accent-color: #58a6ff;
-      --fill-color: #1f6feb;
-    }
+# ![GIF](225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+##  Hello [](#--gifs-for-readme--)
 
-    [data-theme='light'] {
-      --bg-color: #ffffff;
-      --text-color: #000000;
-      --accent-color: #007bff;
-      --fill-color: #00bfff;
-    }
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="600" alt="animated hello"> <br>
+# 💫 About Me:
+<!-- Wave Banner -->
+![Zain Ul Abideen Banner](https://capsule-render.vercel.app/api?type=wave&height=300&color=8BE9FD&text=M%20Zain%20Ul%20Abideen&textBg=false&animation=twinkling&rotate=0)
 
-    [data-theme='nord'] {
-      --bg-color: #2e3440;
-      --text-color: #eceff4;
-      --accent-color: #81a1c1;
-      --fill-color: #5e81ac;
-    }
+<!-- Typing intro -->
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=8BE9FD&center=true&vCenter=true&width=435&lines=Full-Stack+.NET+Engineer;Flutter+App+Builder;Clean+Code+Advocate;Tech+Explorer+%F0%9F%9A%80" alt="Typing SVG" />
+</h2>
 
-    [data-theme='dark'] {
-      --bg-color: #0d1117;
-      --text-color: #c9d1d9;
-      --accent-color: #58a6ff;
-      --fill-color: #1f6feb;
-    }
+<!-- Then continue with your profile intro -->
 
-    body {
-      margin: 0;
-      padding: 20px;
-      background: var(--bg-color);
-      color: var(--text-color);
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      min-height: 100vh;
-    }
+👨‍💻 Hi, I’m M Zain Ul Abideen!  
+⚡ Code, Coffee, Create  
+🌐 Full-Stack Explorer  
+🛠️ Building the future, one commit at a time  
 
-    .input-container {
-      margin-bottom: 20px;
-      text-align: center;
-    }
+### 👾 My Journey Begins with "Hello World!"
 
-    .input-container input, .input-container select, .input-container input[type="color"] {
-      padding: 8px 12px;
-      border-radius: 6px;
-      font-size: 1rem;
-      margin: 0 5px;
-    }
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm1ieDBldjZxZjRyMDh5djh6YnQ5YzU5MzBrNTJzNHJ6MTByZ3VmeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Uuh6Gl2ijHZNFmBNBB/giphy.gif" width="400"/>
 
-    .card {
-      display: grid;
-      grid-template-columns: repeat(3, 1fr);
-      max-width: 950px;
-      width: 100%;
-      background: var(--bg-color);
-      border: 2px solid var(--accent-color);
-      border-radius: 12px;
-      padding: 20px;
-      box-shadow: 0 8px 20px rgba(0, 0, 0, 0.5);
-    }
 
-    .card-section {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
-      padding: 20px;
-      position: relative;
-    }
 
-    .card-section:not(:last-child)::after {
-      content: "|";
-      color: var(--accent-color);
-      position: absolute;
-      right: -10px;
-      font-weight: bold;
-      font-size: 24px;
-      top: 50%;
-      transform: translateY(-50%);
-    }
+# 🌍 Favourite Place
+# ![img](place.png)
 
-    .profile-pic, .circle-container {
-      width: 100px;
-      height: 100px;
-      border-radius: 50%;
-      border: 2px solid var(--accent-color);
-      overflow: hidden;
-    }
+## 🌠💡✨🪐 Dream [](#--gifs-for-readme--)
+<img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="500" alt="NUX_Octodex">
 
-    .profile-pic {
-      object-fit: cover;
-    }
+## 🌐 Socials:  
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/M.Zainulabdeenoffical.pk)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/m.zainulabdeenoffical)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zain-ul-abdeen-130bab244)  
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/zu4425)  
 
-    .circle-svg {
-      width: 100%;
-      height: 100%;
-    }
+# 💻 Tech Stack:  
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)  
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)  
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)  
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)  
+<br>
+## 📝 New Articles from My Mind to Yours
+<!-- BLOG-POST-LIST:START -->
+- [Engineered Addiction: How Silicon Valley Monetizes Emotion and Destroys Mental Health](https://dev.to/zainulabdeenofficial/engineered-addiction-how-silicon-valley-monetizes-emotion-and-destroys-mental-health-39h2)
+- [Why .NET is a Strong Future-Proof Choice for Developers: Beyond the Hype of MERN](https://dev.to/zainulabdeenofficial/why-net-is-a-strong-future-proof-choice-for-developers-beyond-the-hype-of-mern-34m0)
+<!-- BLOG-POST-LIST:END -->
+📚 *Stay updated with my latest thoughts on programming*
 
-    .score-text {
-      position: absolute;
-      top: 50%;
-      left: 50%;
-      transform: translate(-50%, -50%);
-      font-size: 1rem;
-      color: var(--text-color);
-      font-weight: bold;
-      pointer-events: none;
-      text-align: center;
-    }
+# 📊 GitHub Stats:  
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ZainulabdeenOfficial?cardType=github&theme=radical&preferLogin=false)](https://git.io/awesome-stats-card)<br/> 
+![](https://github-readme-streak-stats.herokuapp.com/?user=ZainulabdeenOfficial&theme=radical&hide_border=false)<br/> 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZainulabdeenOfficial&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
 
-    .stat-item {
-      font-size: 1rem;
-      font-weight: 600;
-      margin: 8px 0;
-      color: var(--text-color);
-    }
+## 🏆 GitHub Trophies  
+![](https://github-profile-trophy.vercel.app/?username=ZainulabdeenOfficial&theme=radical&no-frame=false&no-bg=false&margin-w=4)  
 
-    .markdown-link {
-      margin-top: 20px;
-      text-align: center;
-    }
+### ✍️ Random Dev Quote  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
+### 🔝 Top Contributed Repo  
+![](https://github-contributor-stats.vercel.app/api?username=ZainulabdeenOfficial&limit=5&theme=radical&combine_all_yearly_contributions=true) 
+[![Zain Ul Abdeen github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ZainulabdeenOfficial&bg_color=0e0d15&color=a9fef7&line=a9fef7&point=b22e82&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-    @media (max-width: 768px) {
-      .card {
-        grid-template-columns: 1fr;
-      }
-      .card-section:not(:last-child)::after {
-        content: "";
-      }
-    }
-  </style>
-</head>
-<body>
-  <div class="input-container">
-    <input type="text" id="usernameInput" placeholder="Enter GitHub username" onkeypress="handleEnter(event)" />
-    <select id="themeSelect" onchange="changeTheme()">
-      <option value="dracula">Dracula</option>
-      <option value="light">Light</option>
-      <option value="nord">Nord</option>
-      <option value="dark">Dark</option>
-    </select>
-    <label>Border Color: <input type="color" id="borderColorPicker" onchange="updateCustomColors()"></label>
-    <label>Water Color: <input type="color" id="waterColorPicker" onchange="updateCustomColors()"></label>
-  </div>
 
-  <div class="card">
-    <div class="card-section">
-      <img src="" id="avatar" alt="GitHub Avatar" class="profile-pic">
-      <p><strong id="ghUser">Username</strong></p>
-    </div>
-    <div class="card-section">
-      <div class="circle-container">
-        <svg viewBox="0 0 100 100" class="circle-svg">
-          <defs>
-            <clipPath id="wave-clip">
-              <circle cx="50" cy="50" r="40" />
-            </clipPath>
-          </defs>
-          <g clip-path="url(#wave-clip)">
-            <rect y="60" width="100" height="100" fill="var(--fill-color)">
-              <animate attributeName="y" values="60;20;60" dur="3s" repeatCount="indefinite" />
-            </rect>
-          </g>
-          <circle cx="50" cy="50" r="40" stroke="var(--accent-color)" stroke-width="2" fill="none" />
-        </svg>
-        <div class="score-text" id="streakScore">🔥</div>
-      </div>
-    </div>
-    <div class="card-section">
-      <div class="stat-item">🏆 <span id="ghLongest">0</span> Longest Streak</div>
-      <div class="stat-item">📊 <span id="ghTotal">0</span> Contributions</div>
-    </div>
-  </div>
+---  
+[![](https://visitcount.itsvg.in/api?id=ZainulabdeenOfficial&label=Profile%20Views&color=12&icon=2&pretty=true)](https://visitcount.itsvg.in) 
 
-  <div class="markdown-link">
-    <p>Copy for GitHub README:</p>
-    <code id="markdownPreview">![Streak Score](https://github-streak-score-card.vercel.app/?user=ZainulabdeenOfficial)</code>
-  </div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Hello, Nice to Meet You !! [](#--gifs-for-readme--)
 
-  <script>
-    function handleEnter(event) {
-      if (event.key === "Enter") {
-        const username = document.getElementById("usernameInput").value.trim();
-        if (username) {
-          window.location.search = `?user=${username}`;
-        }
-      }
-    }
+```
+████████████████████████████████████████████████████████████  ██╗  ██╗███████╗██╗     ██╗      ██████╗
+████████████████████████████████████████████████████████████  ██║  ██║██╔════╝██║     ██║     ██╔═══██╗
+███████████████████████████████████`.        ╙██████████████  ███████║█████╗  ██║     ██║     ██║   ██║
+████████████████████████████████▀  ¿▓▓▓▓▓▓▓▓▄/ "████████████  ██╔══██║██╔══╝  ██║     ██║     ██║   ██║
+██████████████████████████████▀.  ▓▓▓▓▓▓▓▓▓▓▓▓   ▐██████████  ██║  ██║███████╗███████╗███████╗╚██████╔╝▄█╗
+██████████████████████████████ `  ▓▓▓▓▓▓▓▓▓▓▓▓  ` ██████████  ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝ ╚═╝
+██████████████████████████████ `  ▓▓▓▓▓▓▓▓▓▓▓▓   ▄██████████
+▀██████████████████████████████▌  ▀▀▓▓▓▓▓▓▓▌╓╖. ████████████  ███╗   ██╗██╗ ██████╗███████╗  ████████╗ ██████╗
+█▄▀██████████████████████████████▄ ╩╦╙▀▀▀▀▀ ╣`,█████████████  ████╗  ██║██║██╔════╝██╔════╝  ╚══██╔══╝██╔═══██╗
+▄▀█▄╙█████████████████████▀▀▀▀█████▄▄ .... ,▄███████▀███████  ██╔██╗ ██║██║██║     █████╗       ██║   ██║   ██║
+██▄▀█▄╙█████████████████▀  ╪╢%╦══~╓,└ ╚▒▒▒ ╙▀|,╓╓═╤H   ▀████  ██║╚██╗██║██║██║     ██╔══╝       ██║   ██║   ██║
+█▀▀▀-▀█▌▄▀█████████████   ║▒▒▒▒▒▒▒▒▒▒╢╦ ╘ -╣▒▒▒▒▒▒▒▒▒╢╕   ▀█  ██║ ╚████║██║╚██████╗███████╗     ██║   ╚██████╔╝
+██▄▀██└║▄▄▄████████████▄          ═╕╕╕╕╕═╕═══════       ▄▄▄▄  ╚═╝  ╚═══╝╚═╝ ╚═════╝╚══════╝     ╚═╝    ╚═════╝
+████▄▀█▌║███  ████████▌         ╕   ╩▒▒▒▒▒▒▒▒▒Ñ          ███
+██████▌Ö▓▌   ▀██████████`╔▒▒╣ █ ▒▒m   ╚▒╢▒▒▒╩ -╣▒ ▌ ▒▒▒ ████  ███╗   ███╗███████╗███████╗████████╗  ██╗   ██╗ ██████╗ ██╗   ██╗
+████ -"" ∞╙,▀.╙▀███████╜ ▒▒▒ ▄█ Ñ   -   S.  ═▒▒▒▒ █ ║▒▒╕└███  ████╗ ████║██╔════╝██╔════╝╚══██╔══╝  ╚██╗ ██╔╝██╔═══██╗██║   ██║
+████████▄ -«   ∞▄.▀",╓═     ╒██   ═╣▒▒ `Ñ╛        █▌ ▒▒▒ ███  ██╔████╔██║█████╗  █████╗     ██║      ╚████╔╝ ██║   ██║██║   ██║
+█████████▌ º     ╤╣▒╣╩^",▄▄███▀  ▒▒╣"     ''''''' ▀▀     `██  ██║╚██╔╝██║██╔══╝  ██╔══╝     ██║       ╚██╔╝  ██║   ██║██║   ██║
+█████████  ▌       ▄▄████████─         ---------    L'▒▒▒ ██  ██║ ╚═╝ ██║███████╗███████╗   ██║        ██║   ╚██████╔╝╚██████╔╝
+▀▀▀▀▀▀▀▀▀▀▀▀▀-     ▀▀▀▀▀▀▀▀▀▀       '╧╧╧╧╧╧╧╧╧`     ╚ ╧╧╧- ▀  ╚═╝     ╚═╝╚══════╝╚══════╝   ╚═╝        ╚═╝    ╚═════╝  ╚═════╝
+```
 
-    function getUsernameFromURL() {
-      const params = new URLSearchParams(window.location.search);
-      return params.get('user') || 'ZainulabdeenOfficial';
-    }
+<br><br>  
 
-    function changeTheme() {
-      const theme = document.getElementById("themeSelect").value;
-      document.documentElement.setAttribute("data-theme", theme);
-    }
 
-    function updateCustomColors() {
-      const borderColor = document.getElementById("borderColorPicker").value;
-      const fillColor = document.getElementById("waterColorPicker").value;
-      document.documentElement.style.setProperty('--accent-color', borderColor);
-      document.documentElement.style.setProperty('--fill-color', fillColor);
-    }
 
-    async function loadStats(username) {
-      document.getElementById("ghUser").textContent = username;
-      document.getElementById("markdownPreview").textContent = `![Streak Score](https://github-streak-score-card.vercel.app/?user=${username})`;
-
-      try {
-        const res = await fetch(`https://api.github.com/users/${username}`);
-        const user = await res.json();
-        document.getElementById('avatar').src = user.avatar_url || '';
-      } catch (e) {
-        document.getElementById('avatar').style.display = 'none';
-      }
-
-      try {
-        const res = await fetch(`https://github-contributions-api.jogruber.de/v4/${username}`);
-        const data = await res.json();
-        const total = data?.years?.[0]?.total || '0';
-        document.getElementById("ghTotal").textContent = total;
-      } catch (e) {
-        document.getElementById("ghTotal").textContent = '0';
-      }
-
-      try {
-        const response = await fetch(`https://streak-stats.demolab.com/api/json?user=${username}`);
-        const json = await response.json();
-        const current = json?.currentStreak?.length || 0;
-        const longest = json?.longestStreak?.length || 0;
-        document.getElementById("ghLongest").textContent = longest;
-        document.getElementById("streakScore").innerHTML = `🔥\n${current} Days`;
-      } catch (e) {
-        document.getElementById("ghLongest").textContent = '0';
-        document.getElementById("streakScore").innerHTML = `🔥\n0 Days`;
-      }
-    }
-
-    const username = getUsernameFromURL();
-    loadStats(username);
-    document.getElementById("usernameInput").value = username;
-  </script>
-</body>
-</html>
+    
