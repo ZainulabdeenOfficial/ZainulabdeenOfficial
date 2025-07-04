@@ -20,5 +20,5 @@ jobs:
         with:
           feed_list: |
             https://dev.to/feed/zainulabdeenofficial
-          max_post_count: 5
+         
           remove_duplicates: true
