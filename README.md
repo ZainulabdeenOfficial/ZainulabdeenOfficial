@@ -75,7 +75,11 @@
 
 
 ---  
-[![](https://visitcount.itsvg.in/api?id=ZainulabdeenOfficial&label=Profile%20Views&color=12&icon=2&pretty=true)](https://visitcount.itsvg.in) 
+<div align="center">
+<br>
+<p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=ZainulabdeenOfficial&color=blue" /></p> 
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## Hello, Nice to Meet You !! [](#--gifs-for-readme--)
