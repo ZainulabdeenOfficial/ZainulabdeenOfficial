@@ -59,6 +59,13 @@
 <!-- BLOG-POST-LIST:END -->
 📚 *Stay updated with my latest thoughts on programming*
 
+# 📘 Read My Book: *Logic* by M. Zain Ul Abideen
+
+> A clear and concise guide to logical thinking, now available on major platforms.
+
+🔗 [Gumroad](https://zucreek55.gumroad.com/l/logic) • [Archive.org](https://archive.org/details/logic-STANDARD/mode/1up?q=M+Zain+Ul+Abideen) • [Leanpub](https://leanpub.com/Logic_Book)
+
+
 # 📊 GitHub Stats:  
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ZainulabdeenOfficial?cardType=github&theme=radical&preferLogin=false)](https://git.io/awesome-stats-card)<br/> 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ZainulabdeenOfficial&theme=radical&hide_border=false)<br/> 
@@ -88,6 +95,9 @@
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+
 ## Hello, Nice to Meet You !! [](#--gifs-for-readme--)
 
 ```
@@ -113,7 +123,15 @@
 ▀▀▀▀▀▀▀▀▀▀▀▀▀-     ▀▀▀▀▀▀▀▀▀▀       '╧╧╧╧╧╧╧╧╧`     ╚ ╧╧╧- ▀  ╚═╝     ╚═╝╚══════╝╚══════╝   ╚═╝        ╚═╝    ╚═════╝  ╚═════╝
 ```
 
-<br><br>  
+<br><br>
+
+
+
+
+
+
+
+
 
 
 
