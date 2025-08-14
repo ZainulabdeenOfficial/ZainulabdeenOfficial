@@ -11,6 +11,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=8BE9FD&center=true&vCenter=true&width=435&lines=Full-Stack+.NET+Engineer;Flutter+App+Builder;Clean+Code+Advocate;Tech+Explorer+%F0%9F%9A%80" alt="Typing SVG" />
 </h2>
 
+<!-- Ranking in Pakistan -->
+
+## 🏆 Top GitHub Contributor – Pakistan
+[![committers.top badge](https://user-badge.committers.top/pakistan/ZainulabdeenOfficial.svg)](https://user-badge.committers.top/pakistan/ZainulabdeenOfficial)
+
+
 <!-- Then continue with your profile intro -->
 
 👨‍💻 Hi, I’m M Zain Ul Abideen!  
