@@ -68,8 +68,35 @@
 # 📘 Read My Book: *Logic* by M. Zain Ul Abideen
 
 > A clear and concise guide to logical thinking, now available on major platforms.
+### 🛒 Buy / Read Online
+[![Amazon](https://img.shields.io/badge/Amazon-FF9900?style=for-the-badge&logo=amazon&logoColor=white)](https://www.amazon.com/dp/B0FLPMBWWB)
+[![Barnes & Noble](https://img.shields.io/badge/Barnes_&_Noble-2A5934?style=for-the-badge&logo=barnesandnoble&logoColor=white)](https://www.barnesandnoble.com/w/logic-m-zain-ul-abideen/1148019588?ean=2940182275637)
+[![Apple Books](https://img.shields.io/badge/Apple_Books-FF6F00?style=for-the-badge&logo=applebooks&logoColor=white)](https://books.apple.com/us/book/logic/id6749749456)
+[![Kobo](https://img.shields.io/badge/Kobo-DE0000?style=for-the-badge&logo=kobo&logoColor=white)](https://www.kobo.com/ww/en/ebook/logic-76?sId=b12c2cd3-5d5b-446a-9fe9-1e930762ba71)
+[![Gumroad](https://img.shields.io/badge/Gumroad-FF6F61?style=for-the-badge&logo=gumroad&logoColor=white)](https://zucreek55.gumroad.com/l/logic)
+[![Storytel](https://img.shields.io/badge/Storytel-FE5A1D?style=for-the-badge&logo=storytel&logoColor=white)](https://www.storytel.com/tv/books/logic-mastering-problem-solving-skills-for-coding-success-11993655#pricePlans)
+[![Everand](https://img.shields.io/badge/Everand-2A2A2A?style=for-the-badge&logo=scribd&logoColor=white)](https://www.everand.com/book/898945796/Logic-Mastering-Problem-Solving-Skills-for-Coding-Success)
+[![Leanpub](https://img.shields.io/badge/Leanpub-000000?style=for-the-badge&logo=leanpub&logoColor=white)](https://leanpub.com/Logic_Book)
+[![Archive.org](https://img.shields.io/badge/Archive.org-000000?style=for-the-badge&logo=internetarchive&logoColor=white)](https://archive.org/details/logic-STANDARD/mode/1up?q=M+Zain+Ul+Abideen)
 
-🔗 [Gumroad](https://zucreek55.gumroad.com/l/logic) • [Archive.org](https://archive.org/details/logic-STANDARD/mode/1up?q=M+Zain+Ul+Abideen) • [Leanpub](https://leanpub.com/Logic_Book)
+---
+
+### 📥 Free & Alternative Reading
+[![Archive.org Free](https://img.shields.io/badge/Archive.org_Free-000000?style=for-the-badge&logo=internetarchive&logoColor=white)](https://archive.org/details/logic-STANDARD/page/n1/mode/1up?q=M+Zain+Ul+Abideen)
+[![Online Reader](https://img.shields.io/badge/Online_Reader-4A90E2?style=for-the-badge&logo=readme&logoColor=white)](https://books.kotobee.com/library/#/book/118217/reader)
+
+---
+
+### 📲 App Versions
+[![Android](https://img.shields.io/badge/Android_APK-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/ZainulabdeenOfficial/Logic_Book/releases/download/Logic_Book/app-release.apk)
+[![iPhone](https://img.shields.io/badge/iPhone_IPA-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/ZainulabdeenOfficial/Logic_Book/releases/download/Logic_Book/logic.ipa)
+
+---
+
+### 🌐 Official Website
+[![Website](https://img.shields.io/badge/LogicBook-0056D2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://logicbook.dpdns.org/)
+
+> 💡 *Your brain is your best asset. Upgrade it.*
 
 
 # 📊 GitHub Stats:  
