@@ -16,7 +16,7 @@
 ## 🏆 Top GitHub Contributor – Pakistan
 [![committers.top badge](https://user-badge.committers.top/pakistan/ZainulabdeenOfficial.svg)](https://user-badge.committers.top/pakistan/ZainulabdeenOfficial)
 
-
+<a href="https://gitroll.io/profile/uW0UIJfvDrdUiWhQ9SkDZmkpr8J72" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uW0UIJfvDrdUiWhQ9SkDZmkpr8J72?theme=tokyoNight" alt="GitRoll Profile Badge"/></a>
 <!-- Then continue with your profile intro -->
 
 👨‍💻 Hi, I’m M Zain Ul Abideen!  
