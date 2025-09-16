@@ -13,8 +13,7 @@
 
 <!-- Ranking in Pakistan -->
 
-## 🏆 Top GitHub Contributor – Pakistan
-[![committers.top badge](https://user-badge.committers.top/pakistan/ZainulabdeenOfficial.svg)](https://user-badge.committers.top/pakistan/ZainulabdeenOfficial)
+## About me ⭐
 
 
 <!-- Then continue with your profile intro -->
