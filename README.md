@@ -103,9 +103,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ZainulabdeenOfficial&theme=radical&hide_border=false)<br/> 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZainulabdeenOfficial&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
 
-<div align="center">
-  <a href="https://github.com/ZainulabdeenOfficial">
-    <img src="https://github-widgetbox.vercel.app/api/profile?username=ZainulabdeenOfficial&data=followers,repositories,stars,commits&theme=radical" alt="GitHub WidgetBox">
+
 
 
 ## 🏆 GitHub Trophies  
