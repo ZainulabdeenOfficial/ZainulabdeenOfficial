@@ -62,6 +62,13 @@
 - [🧠 How I Solve Any Programming Problem &lpar;And You Can Too!&rpar;](https://dev.to/zainulabdeenofficial/how-i-solve-any-programming-problem-and-you-can-too-4bj4)
 - [Why Flutter Developers Are Replacing Android Studio with VS Code and Cursor 🚀](https://dev.to/zainulabdeenofficial/why-flutter-developers-are-replacing-android-studio-with-vs-code-and-cursor-nn4)
 <!-- BLOG-POST-LIST:END -->
+
+## 🚀 Explore My Visual Studio Extensions
+
+Discover the tools and extensions I've created to supercharge your development workflow.  
+
+[![Visual Studio Marketplace](https://img.shields.io/badge/Visual_Studio_Marketplace-MZainUlAbideen-512BD4?style=for-the-badge&logo=visual-studio)](https://marketplace.visualstudio.com/publishers/MZainUlAbideen)
+
 📚 *Stay updated with my latest thoughts on programming*
 # 🌌 M. Zain Ul Abideen — The Authorverse: Gateways to Worlds of Stories 🚀📖✨
 ---
