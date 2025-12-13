@@ -63,37 +63,76 @@
 - [Why Flutter Developers Are Replacing Android Studio with VS Code and Cursor 🚀](https://dev.to/zainulabdeenofficial/why-flutter-developers-are-replacing-android-studio-with-vs-code-and-cursor-nn4)
 <!-- BLOG-POST-LIST:END -->
 📚 *Stay updated with my latest thoughts on programming*
+# 🌌 M. Zain Ul Abideen — The Authorverse: Gateways to Worlds of Stories 🚀📖✨
+---
 
-# 📘 Read My Book: *Logic* by M. Zain Ul Abideen
+### 🔹 Bol.com — The Dutch Spotlight 🌟
+Official author page on Bol.com
 
-> A clear and concise guide to logical thinking, now available on major platforms.
-### 🛒 Buy / Read Online
-[![Amazon](https://img.shields.io/badge/Amazon-FF9900?style=for-the-badge&logo=amazon&logoColor=white)](https://www.amazon.com/dp/B0FLPMBWWB)
-[![Barnes & Noble](https://img.shields.io/badge/Barnes_&_Noble-2A5934?style=for-the-badge&logo=barnesandnoble&logoColor=white)](https://www.barnesandnoble.com/w/logic-m-zain-ul-abideen/1148019588?ean=2940182275637)
-[![Apple Books](https://img.shields.io/badge/Apple_Books-FF6F00?style=for-the-badge&logo=applebooks&logoColor=white)](https://books.apple.com/us/book/logic/id6749749456)
-[![Kobo](https://img.shields.io/badge/Kobo-DE0000?style=for-the-badge&logo=kobo&logoColor=white)](https://www.kobo.com/ww/en/ebook/logic-76?sId=b12c2cd3-5d5b-446a-9fe9-1e930762ba71)
-[![Gumroad](https://img.shields.io/badge/Gumroad-FF6F61?style=for-the-badge&logo=gumroad&logoColor=white)](https://zucreek55.gumroad.com/l/logic)
-[![Storytel](https://img.shields.io/badge/Storytel-FE5A1D?style=for-the-badge&logo=storytel&logoColor=white)](https://www.storytel.com/tv/books/logic-mastering-problem-solving-skills-for-coding-success-11993655#pricePlans)
-[![Everand](https://img.shields.io/badge/Everand-2A2A2A?style=for-the-badge&logo=scribd&logoColor=white)](https://www.everand.com/book/898945796/Logic-Mastering-Problem-Solving-Skills-for-Coding-Success)
-[![Leanpub](https://img.shields.io/badge/Leanpub-000000?style=for-the-badge&logo=leanpub&logoColor=white)](https://leanpub.com/Logic_Book)
-[![Archive.org](https://img.shields.io/badge/Archive.org-000000?style=for-the-badge&logo=internetarchive&logoColor=white)](https://archive.org/details/logic-STANDARD/mode/1up?q=M+Zain+Ul+Abideen)
+[![Bol.com](https://img.shields.io/badge/Bol.com-Author-0046BE?style=for-the-badge&logo=bol.com&logoColor=white)](https://www.bol.com/nl/fr/b/m-zain-ul-abideen/608481433/?bltgh=tfUMWb1tx0OnbBP5PIRM-A.4_7.9.ProductParty)
 
 ---
 
-### 📥 Free & Alternative Reading
-[![Archive.org Free](https://img.shields.io/badge/Archive.org_Free-000000?style=for-the-badge&logo=internetarchive&logoColor=white)](https://archive.org/details/logic-STANDARD/page/n1/mode/1up?q=M+Zain+Ul+Abideen)
-[![Online Reader](https://img.shields.io/badge/Online_Reader-4A90E2?style=for-the-badge&logo=readme&logoColor=white)](https://books.kotobee.com/library/#/book/118217/reader)
+### 📖 Bookmate — The Reading Universe 📚
+Author profile on Bookmate
+
+[![Bookmate](https://img.shields.io/badge/Bookmate-Author-E60023?style=for-the-badge)](https://bookmate.com/authors/BWaKSJ5R)
 
 ---
 
-### 📲 App Versions
-[![Android](https://img.shields.io/badge/Android_APK-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/ZainulabdeenOfficial/Logic_Book/releases/download/Logic_Book/app-release.apk)
-[![iPhone](https://img.shields.io/badge/iPhone_IPA-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/ZainulabdeenOfficial/Logic_Book/releases/download/Logic_Book/logic.ipa)
+### 🟧 Amazon — Kindle Kingdom 🔥
+Author listings, reviews, and Kindle editions
+
+[![Amazon](https://img.shields.io/badge/Amazon-Author_Listings-FF9900?style=for-the-badge&logo=amazon&logoColor=white)](https://www.amazon.com/s?i=digital-text&rh=p_27%3AM%2BZain%2BUl%2BAbideen&s=relevancerank&text=M+Zain+Ul+Abideen)
 
 ---
 
-### 🌐 Official Website
-[![Website](https://img.shields.io/badge/LogicBook-0056D2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://logicbook.dpdns.org/)
+### 📗 Kobo — Global Ebook Arena 🌐
+Author search page
+
+[![Kobo](https://img.shields.io/badge/Kobo-Author-0052CC?style=for-the-badge&logo=kobo&logoColor=white)](https://www.kobo.com/ww/en/search?query=m+zain+ul+abideen&ac=1&acp=m+zain+ul+abideen&ac.author=m+zain+ul+abideen&sort=Temperature&fclanguages=en&ssid=AoRIwSKz0MoWMBTF2qd4q&sid=45a4ac94-acf0-4cff-8834-88456bc85f56)
+
+---
+
+### 🖥️ PChome 24h — Taiwanese Treasure 🇹🇼
+Author search page
+
+[![PChome](https://img.shields.io/badge/PChome-Author-FF6600?style=for-the-badge)](https://24h.pchome.com.tw/search/?q=M%20Zain%20Ul%20Abideen&scope=24b)
+
+---
+
+### 🎧 Storytel — Audiobook Realm 🎶
+Author profile on Storytel
+
+[![Storytel](https://img.shields.io/badge/Storytel-Author-FE5A1D?style=for-the-badge&logo=storytel&logoColor=white)](https://www.storytel.com/tv/authors/m-zain-ul-abideen-1119143)
+
+---
+
+### 🍎 Apple Books — The iLibrary 🍏
+Official Apple Books author page
+
+[![Apple Books](https://img.shields.io/badge/Apple_Books-Author-000000?style=for-the-badge&logo=applebooks&logoColor=white)](https://books.apple.com/us/author/m-zain-ul-abideen/id1831920848?see-all=books)
+
+---
+
+### 📘 Google Play Books — Android Readers 📱
+Author page for digital previews
+
+[![Google Play Books](https://img.shields.io/badge/Google_Play-Author_Search-4285F4?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/books/author?id=M+Zain+Ul+Abideen)
+
+---
+
+### 🔎 Google Search — Everywhere on the Web 🌐
+Author search results
+
+[![Google Search](https://img.shields.io/badge/Google-Author_Search-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.google.com/search?q=inauthor%3AM+Zain+Ul+Abideen&udm=36&sxsrf=AE3TifO3KQdR7h4-odl2YpPA3dxfMQ9ufw%3A1765640988076)
+
+---
+
+### 📚 Everand (Scribd) — Ebooks & Audiobooks Hub 🔗
+Author collections
+
+[![Everand](https://img.shields.io/badge/Everand-Author_Collection-2A2A2A?style=for-the-badge&logo=scribd&logoColor=white)](https://www.everand.com/author/921197283/M-Zain-Ul-Abideen)  
 
 > 💡 *Your brain is your best asset. Upgrade it.*
 
