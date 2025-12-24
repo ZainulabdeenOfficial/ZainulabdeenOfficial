@@ -141,6 +141,11 @@ Author collections
 
 [![Everand](https://img.shields.io/badge/Everand-Author_Collection-2A2A2A?style=for-the-badge&logo=scribd&logoColor=white)](https://www.everand.com/author/921197283/M-Zain-Ul-Abideen)  
 
+### 📖 Goodreads — Author Profile & Reader Community 🔗
+[![Goodreads](https://img.shields.io/badge/Goodreads-Author_Profile-2A2A2A?style=for-the-badge&logo=goodreads&logoColor=white)](https://www.goodreads.com/author/show/58250068.M_Zain_Ul_Abideen)
+
+
+
 > 💡 *Your brain is your best asset. Upgrade it.*
 
 
