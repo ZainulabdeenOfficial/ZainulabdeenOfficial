@@ -157,6 +157,12 @@ Author collections
     
 ![Most Used Languages](https://github-readme-stats-pi-two-58.vercel.app/api/top-langs/?username=ZainulabdeenOfficial&theme=shadow_blue&title_color=00abf0&bg_color=00000000&text_color=DEDEDE&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=20&custom_title=Most%20Used%20Languages)
 </div>
+<div align="center">
+  
+![ZainulabdeenOfficial](https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=ZainulabdeenOfficial&theme=%7B%22backgroundColor%22%3A%22%230f172a%22%2C%22textColor%22%3A%22%23e2e8f0%22%2C%22accentColor%22%3A%22%230ea5e9%22%2C%22borderColor%22%3A%22%231e293b%22%2C%22waterColor%22%3A%22%230ea5e9%22%2C%22streakColor%22%3A%22%2306b6d4%22%7D)
+
+</div>
+
 
 <div align="center">
     <p>
@@ -164,10 +170,9 @@ Author collections
     </p>
 </div>
 
-<div align="center">
+
     
-[![GitHub Streak](https://streak-stats.demolab.com?user=ZainulabdeenOfficial&theme=shadow_blue&hide_border=false&ring=00abf0&fire=00abf0&currStreakLabel=00abf0&sideNums=00abf0&sideLabels=00abf0&dates=DEDEDE&stroke=00abf0&bg_color=00000000&text_color=DEDEDE)](https://streak-stats.demolab.com/?user=ZainulabdeenOfficial)
-</div>
+
 
 <br>
 
