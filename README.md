@@ -1,3 +1,4 @@
+
 # ![GIF](225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 ##  Hello [](#--gifs-for-readme--)
 
@@ -150,21 +151,32 @@ Author collections
 
 
 # 📊 GitHub Stats:  
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ZainulabdeenOfficial?cardType=github&theme=radical&preferLogin=false)](https://git.io/awesome-stats-card)<br/> 
-![](https://github-readme-streak-stats.herokuapp.com/?user=ZainulabdeenOfficial&theme=radical&hide_border=false)<br/> 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZainulabdeenOfficial&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
 
+<h3 align="left">Languages Used:</h3>
+<div align="center">
+    
+![Most Used Languages](https://github-readme-stats-pi-two-58.vercel.app/api/top-langs/?username=ZainulabdeenOfficial&theme=shadow_blue&title_color=00abf0&bg_color=00000000&text_color=DEDEDE&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=20&custom_title=Most%20Used%20Languages)
+</div>
 
+<div align="center">
+    <p>
+        <img src="https://github-readme-stats-pi-two-58.vercel.app/api?username=ZainulabdeenOfficial&rank_icon=github&theme=shadow_blue&hide_border=false&title_color=00abf0&bg_color=00000000&text_color=DEDEDE&custom_title=GitHub⠀Stats&show_icons=true"/>     
+    </p>
+</div>
 
+<div align="center">
+    
+[![GitHub Streak](https://streak-stats.demolab.com?user=ZainulabdeenOfficial&theme=shadow_blue&hide_border=false&ring=00abf0&fire=00abf0&currStreakLabel=00abf0&sideNums=00abf0&sideLabels=00abf0&dates=DEDEDE&stroke=00abf0&bg_color=00000000&text_color=DEDEDE)](https://streak-stats.demolab.com/?user=ZainulabdeenOfficial)
+</div>
 
-## 🏆 GitHub Trophies  
-![](https://github-profile-trophy.vercel.app/?username=ZainulabdeenOfficial&theme=radical&no-frame=false&no-bg=false&margin-w=4)  
+<br>
 
-### ✍️ Random Dev Quote  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
-### 🔝 Top Contributed Repo  
-![](https://github-contributor-stats.vercel.app/api?username=ZainulabdeenOfficial&limit=5&theme=radical&combine_all_yearly_contributions=true) 
-[![Zain Ul Abdeen github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ZainulabdeenOfficial&bg_color=0e0d15&color=a9fef7&line=a9fef7&point=b22e82&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">
+    <a href="https://github.com/ZainulabdeenOfficial/ZainulabdeenOfficial">
+        <img alt="M Zain Ul Abideen Activity Graph" 
+             src="https://github-readme-activity-graph.vercel.app/graph/?username=ZainulabdeenOfficial&bg_color=00000000&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" />
+    </a>
+</div>
 
 
 ---  
