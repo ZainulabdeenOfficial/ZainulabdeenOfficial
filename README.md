@@ -54,9 +54,6 @@
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)  
-
-### 📂 [View Complete Tools & Technologies Documentation →](./TOOLS_AND_TECHNOLOGIES.md)
-
 <br>
 ## 📝 New Articles from My Mind to Yours
 <!-- BLOG-POST-LIST:START -->
