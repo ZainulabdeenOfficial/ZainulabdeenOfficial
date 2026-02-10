@@ -36,36 +36,25 @@
 ## 🌠💡✨🪐 Dream [](#--gifs-for-readme--)
 <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="500" alt="NUX_Octodex">
 
-## 🌐 Socials:  
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/M.Zainulabdeenoffical.pk)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/m.zainulabdeenoffical)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zain-ul-abdeen-130bab244)  
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/zu4425)  
+## 🌐 Socials
 
-# 💻 Tech Stack:  
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)  
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)  
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)  
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)  
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/m.zainulabdeenoffical)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/zain-ul-abdeen-130bab244)
 
-### 📂 [View Complete Tools & Technologies Documentation →](./TOOLS_AND_TECHNOLOGIES.md)
+## 💻 Tech Stack & Tools
 
-<br>
-## 📝 New Articles from My Mind to Yours
+![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,js,html,css,dotnet,php,angular,flutter,mui,firebase,mysql,sqlite,git,github,vscode,visualstudio,androidstudio,eclipse,postman,windows,cloudflare,python)
+
+## 📝 New Articles — From My Mind to Yours
+
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Why You Should Keep Multiple Backups of Your Code &lpar;Don’t Rely Only on GitHub&rpar;](https://dev.to/zainulabdeenofficial/why-you-should-keep-multiple-backups-of-your-code-dont-rely-only-on-github-2j90)
-- [The Things I Wish I Knew Before Writing My First 10,000 Lines of Code](https://dev.to/zainulabdeenofficial/the-things-i-wish-i-knew-before-writing-my-first-10000-lines-of-code-53pf)
-- [Why Every Beginner Coder Should Read &quot;Logic&quot; by M Zain Ul Abideen](https://dev.to/zainulabdeenofficial/why-every-beginner-coder-should-read-logic-by-m-zain-ul-abideen-81g)
-- [🧠 How I Solve Any Programming Problem &lpar;And You Can Too!&rpar;](https://dev.to/zainulabdeenofficial/how-i-solve-any-programming-problem-and-you-can-too-4bj4)
-- [Why Flutter Developers Are Replacing Android Studio with VS Code and Cursor 🚀](https://dev.to/zainulabdeenofficial/why-flutter-developers-are-replacing-android-studio-with-vs-code-and-cursor-nn4)
+- 🚀 **[Why You Should Keep Multiple Backups of Your Code (Don’t Rely Only on GitHub)](https://dev.to/zainulabdeenofficial/why-you-should-keep-multiple-backups-of-your-code-dont-rely-only-on-github-2j90)**
+- ✍️ **[The Things I Wish I Knew Before Writing My First 10,000 Lines of Code](https://dev.to/zainulabdeenofficial/the-things-i-wish-i-knew-before-writing-my-first-10000-lines-of-code-53pf)**
+- 📘 **[Why Every Beginner Coder Should Read “Logic” by M Zain Ul Abideen](https://dev.to/zainulabdeenofficial/why-every-beginner-coder-should-read-logic-by-m-zain-ul-abideen-81g)**
+- 🧠 **[How I Solve Any Programming Problem (And You Can Too!)](https://dev.to/zainulabdeenofficial/how-i-solve-any-programming-problem-and-you-can-too-4bj4)**
+- ⚡ **[Why Flutter Developers Are Replacing Android Studio with VS Code and Cursor](https://dev.to/zainulabdeenofficial/why-flutter-developers-are-replacing-android-studio-with-vs-code-and-cursor-nn4)**
 <!-- BLOG-POST-LIST:END -->
+
 
 ## 🚀 Explore My Visual Studio Extensions
 
