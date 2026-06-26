@@ -8,16 +8,8 @@
 ![Zain Ul Abideen Banner](https://capsule-render.vercel.app/api?type=wave&height=300&color=8BE9FD&text=M%20Zain%20Ul%20Abideen&textBg=false&animation=twinkling&rotate=0)
 
 <!-- Typing intro -->
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=8BE9FD&center=true&vCenter=true&width=435&lines=Full-Stack+.NET+Engineer;Flutter+App+Builder;Clean+Code+Advocate;Tech+Explorer+%F0%9F%9A%80" alt="Typing SVG" />
-</h2>
-
-<!-- Ranking in Pakistan -->
-
-## About me ⭐
 
 
-<!-- Then continue with your profile intro -->
 <div align="left">
 
 <img src="https://camo.githubusercontent.com/e832af8144482d61654e53896abd6c2d1fecc67ef39663b8fceac43a2e38adcc/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f336f456a4857706956494f475854356c396d2f67697068792e676966"
