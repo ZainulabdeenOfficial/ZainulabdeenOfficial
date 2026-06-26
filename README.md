@@ -4,11 +4,6 @@
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="600" alt="animated hello"> <br>
 # 💫 About Me:
-<!-- Wave Banner -->
-![Zain Ul Abideen Banner](https://capsule-render.vercel.app/api?type=wave&height=300&color=8BE9FD&text=M%20Zain%20Ul%20Abideen&textBg=false&animation=twinkling&rotate=0)
-
-<!-- Typing intro -->
-
 
 <div align="left">
 
