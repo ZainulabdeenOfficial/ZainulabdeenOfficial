@@ -150,11 +150,6 @@ Author collections
 </div>
 
 
-<div align="center">
-    <p>
-        <img src="https://github-readme-stats-pi-two-58.vercel.app/api?username=ZainulabdeenOfficial&rank_icon=github&theme=shadow_blue&hide_border=false&title_color=00abf0&bg_color=00000000&text_color=DEDEDE&custom_title=GitHub⠀Stats&show_icons=true"/>     
-    </p>
-</div>
 
 
     
