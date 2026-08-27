@@ -76,9 +76,7 @@ Discover the tools and extensions I've created to supercharge your development w
 
 </p>
 
-<p align="center">
-  <sub>📱 Android &nbsp;•&nbsp; 🪟 Windows &nbsp;•&nbsp; 🌐 Official Storefronts</sub>
-</p>
+<p align="center"> <img src="https://w7.pngwing.com/pngs/574/270/png-transparent-android-figurine-illustration-android-application-software-android-logo-logo-mobile-app-development-android-software-development-thumbnail.png" width="24" height="24" alt="Android"> <b> Android</b> &nbsp;&nbsp;•&nbsp;&nbsp; <img src="https://w7.pngwing.com/pngs/970/976/png-transparent-windows-10-logo-microsoft-windows-operating-system-windows-10-windows-7-windows-logo-angle-rectangle-orange-thumbnail.png" width="24" height="24" alt="Windows"> <b> Windows</b> &nbsp;&nbsp;•&nbsp;&nbsp; <img src="https://images.seeklogo.com/logo-png/65/1/uptodown-logo-png_seeklogo-651260.png" width="24" height="24" alt="Storefronts"> <b> Official Storefronts</b> </p>
 
 ---
 
