@@ -56,9 +56,35 @@ Discover the tools and extensions I've created to supercharge your development w
 
 [![Visual Studio Marketplace](https://img.shields.io/badge/Visual_Studio_Marketplace-MZainUlAbideen-512BD4?style=for-the-badge&logo=visual-studio)](https://marketplace.visualstudio.com/publishers/MZainUlAbideen)
 
+---
+
+# 🌐 My Apps & Stores
+
+<p align="center">
+
+<a href="https://play.google.com/store/apps/dev?id=7361505038119609142">
+  <img src="https://www.freepnglogos.com/uploads/google-play-png-logo/google-play-store-app-logo-gets-a-slight-redesign-png-19.png" width="90" alt="Google Play">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://en.uptodown.com/developer/z-developers">
+  <img src="https://images.seeklogo.com/logo-png/65/1/uptodown-logo-png_seeklogo-651260.png" width="90" alt="Uptodown">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://apps.microsoft.com/search/publisher?name=M+Zain+Ul+Abideen&hl=en-US&gl=PK">
+  <img src="https://img.icons8.com/?size=96&id=P0xhuRBy8MnO&format=png" width="90" alt="Microsoft Store">
+</a>
+
+</p>
+
+<p align="center">
+  <sub>📱 Android &nbsp;•&nbsp; 🪟 Windows &nbsp;•&nbsp; 🌐 Official Storefronts</sub>
+</p>
+
+---
+
 📚 *Stay updated with my latest thoughts on programming*
 # 🌌 M. Zain Ul Abideen — The Authorverse: Gateways to Worlds of Stories 🚀📖✨
----
+
 
 ### 🔹 Bol.com — The Dutch Spotlight 🌟
 Official author page on Bol.com
